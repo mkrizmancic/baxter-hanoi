@@ -1,0 +1,4 @@
+  <launch>
+    <node pkg="tf_transform" type="baxter_optitrack_transformation.py" 
+          name="baxter_optitrack_transformation" />    
+  </launch>

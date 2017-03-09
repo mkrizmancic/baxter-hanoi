@@ -1,0 +1,4 @@
+  <launch>
+    <node pkg="tf_transform" type="baxter_find_transformation.py" 
+          name="baxter_find_transformation" />    
+  </launch>
